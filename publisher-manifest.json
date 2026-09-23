@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "85dca66b969d51f8a50e19fc",
+  "owner": "trvmrbhaw",
+  "repo": "page-08e31900a852919770b37d64",
+  "title": "Air",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "08e31900a852919770b37d64",
+      "a": "Air",
+      "b": "2027最新官网",
+      "entity": "Air",
+      "brand": "Air",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "064f088ccdf8624860a76437db1c811a1b91d69e5613b1af560a09f18712f878",
+      "content": {
+        "primary_entity": "Air",
+        "keyword1": "Air",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "选择与设备匹配的客户端，参考订阅导入说明完成配置。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选好套餐，参考客户端文档完成订阅配置。",
+          "AI_CLOSING_TITLE": "选对套餐，配置订阅",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档套餐，月付分别 ¥15、¥35、¥85。基础版含 100GB 流量与 3 台设备，旗舰版含 300GB 流量与 5 台设备，团队版含 1000GB 流量与 20 台设备，按年付分别 ¥150、¥350、¥850。设备较少的个人用户从基础版起步，需要流媒体与游戏专线的可选旗舰版，多设备共享带宽的适合团队版。客户端按设备类型选择，订阅配置参考对应客户端文档。",
+          "AI_FAQ_ANSWER_1": "基础版每月 ¥15，年付 ¥150，含 100GB 流量与 3 台设备同时在线，适合单人手机或电脑使用；旗舰版每月 ¥35，年付 ¥350，含 300GB 流量与 5 台设备，并带全节点流媒体解锁和 IPLC 专线。",
+          "AI_FAQ_ANSWER_2": "按同时在线设备数量区分：基础版 3 台，旗舰版 5 台，团队版 20 台。如果手机、平板、电脑需要同时连接，建议选择设备数留有余量的档位。",
+          "AI_FAQ_ANSWER_3": "旗舰版提供全节点原生流媒体解锁，并针对游戏加速优化 IPLC 专线；基础版仅解锁基础流媒体，普通线路节点池。对画质和延迟敏感的用户可以优先考虑旗舰版。",
+          "AI_FAQ_ANSWER_4": "月付与年付均可选择。按年付折算：基础版 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年。如果使用周期超过十个月，年付方案通常更划算。",
+          "AI_FAQ_ANSWER_5": "先根据设备类型下载对应客户端，再在客户端内导入订阅链接即可使用。旗舰版与团队版提供优先工单或客户经理支持，配置中遇到问题可以联系对应渠道。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版和旗舰版月费分别是多少？",
+          "AI_FAQ_QUESTION_2": "不同套餐支持的设备数量有何区别？",
+          "AI_FAQ_QUESTION_3": "流媒体与游戏加速选哪个套餐更合适？",
+          "AI_FAQ_QUESTION_4": "月付和年付如何选择？",
+          "AI_FAQ_QUESTION_5": "购买后如何在设备上使用？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "依据流量、设备数量和流媒体需求，在三档套餐中做取舍。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 ¥15，含 100GB 流量与 3 台设备；旗舰版每月 ¥35，含 300GB 流量与 5 台设备；团队版每月 ¥85，含 1000GB 流量与 20 台设备。",
+          "AI_FEATURE_TEXT_2": "个人手机与电脑使用选基础版即可；需要流媒体解锁或游戏专线时选旗舰版；多设备共享或企业路由需求适合团队版。",
+          "AI_FEATURE_TEXT_3": "月付适合短期使用，年付折算更省：基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，长期使用可优先年付。",
+          "AI_FEATURE_TITLE_1": "套餐规格",
+          "AI_FEATURE_TITLE_2": "按需选档",
+          "AI_FEATURE_TITLE_3": "计费周期",
+          "AI_GUIDE_INTRO": "按需求选定套餐，检查设备适配，再依照客户端文档配置订阅。",
+          "AI_GUIDE_TITLE": "使用三步",
+          "AI_HERO_INTRO": "Air 提供基础版、旗舰版与团队版三档加速套餐，月付 ¥15 起，按年付最低 ¥150/年。个人用户从基础版起步，需要流媒体与游戏专线时选旗舰版，多设备共享带宽的适合团队版。",
+          "AI_HERO_SUBTITLE": "三档套餐，按设备与流量选择",
+          "AI_HIGHLIGHT_1": "基础版月付 ¥15，100GB 流量",
+          "AI_HIGHLIGHT_2": "旗舰版月付 ¥35，5 台设备在线",
+          "AI_HIGHLIGHT_3": "团队版月付 ¥85，1000GB 流量",
+          "AI_PLANS_INTRO": "基础版、旗舰版与团队版覆盖不同流量与设备规模，对比月付与年付价格再做选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量、每月流量需求和是否需要流媒体或游戏专线，在基础版、旗舰版与团队版之间选定一档。",
+          "AI_STEP_TEXT_2": "确认手机、平板或电脑等设备的在线数量不超过所选套餐上限，旗舰版与团队版可覆盖更多设备。",
+          "AI_STEP_TEXT_3": "按设备类型选择客户端，参考对应客户端文档导入订阅信息，完成连接配置。",
+          "AI_STEP_TITLE_1": "选定套餐",
+          "AI_STEP_TITLE_2": "确认设备",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "Air 加速套餐"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "wgetcloudgw.com",
+    "host": "wgetcloudgw.com"
+  },
+  "file_hashes": {
+    "index.html": "a45f6ac20ab1eb4e3e3990e409b099bbcf3828e738b696816996fea500f0035a",
+    "sitemap.xml": "0d716467465c7221d035f08256d9966f26bb294f679133ccd7fc0c000a356f2b",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "e2bc47429dc5b097d12bb3f284277cbc88f85784ef09b8d2da0d5db7aaa4c2ac",
+    "robots.txt": "8872c28e6145c0137739633d3749fa8a7dea4287add0b4ca2a23e6762be059b6",
+    "08f7f2a3d85ea9e73dfc6acabf9b04c3.txt": "aa55a639aeb55fabec58a409e9a7d20e14c70fc29743b948bdd9ab6739adb54f"
+  },
+  "revision": "817a4dc6c6e5267bc9b466f09b13a1364e29ced55c48aaeb260dbb7fe2da967f"
+}
